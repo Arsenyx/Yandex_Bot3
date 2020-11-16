@@ -21,7 +21,7 @@ let site = location.host;
 
 if (location.host == "yandex.ru"){
     let sites = {
-    "xn----7sbab5aqcbiddtdj1e1g.xn--p1ai":["Гобой", "Как звучит флейта", "Что такое валторна", "Как выглядит тромбон", "Музыкальные диктанты онлайн", "Виолончель", "Теория музыки"],
+    "xn----7sbab5aqcbiddtdj1e1g.xn--p1ai":["Гобой","Саксофон","Валторна","Фагот","Флейта","Как звучит флейта","Скрипка"],
     "crushdrummers.ru":["Барабанное шоу","Шоу барабанщиков москва","Заказать барабанное шоу"]
     }
     var submit = document.querySelector("button[type='submit']")
