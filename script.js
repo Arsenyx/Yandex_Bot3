@@ -4,7 +4,7 @@
 // @version      0.2
 // @description  try to take over the world!
 // @author       Arseny
-// @match        https://yandex.ru/*ф
+// @match        https://yandex.ru/*
 // @match        https://xn----7sbab5aqcbiddtdj1e1g.xn--p1ai/*
 // @match        https://crushdrummers.ru/*
 // @grant        none
